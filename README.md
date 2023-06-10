@@ -1,5 +1,7 @@
 # README: a mini tutorial
 
+DOWNLOAD VSCODE: https://code.visualstudio.com/download
+
 The readme is really important to let external people know about your project. 
 
 Important things about this file:
@@ -68,3 +70,7 @@ Example:
 **Images**: use this code below:
 
 <img src="Katas.jpg" alt="Alt text that describes the graphic" title="Title text" />
+
+There are waaaay more things! Explore them all here:
+
+https://www.ibm.com/docs/en/db2-event-store/2.0.0?topic=notebooks-markdown-jupyter-cheatsheet
