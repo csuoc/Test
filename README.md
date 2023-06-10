@@ -57,19 +57,20 @@ Their basics features that you can use (and will make a difference) are:
 
 Example:
 
-    - First bullet point
-    - Second
+- First
+- DSEcdh
+- Sadsa
 
 **Cardinal bullet pints**: write (number). at the beginning of a new line
 
     Example:
 
-    1. First point
-    2. Second
+1. DSAdasd
+2. sdadasda
 
 **Images**: use this code below:
 
-<img src="Katas.jpg" alt="Alt text that describes the graphic" title="Title text" />
+<img src="images/Katas.jpg" width = 300 alt="Alt text that describes the graphic" title="Title text" />
 
 There are waaaay more things! Explore them all here:
 
