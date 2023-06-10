@@ -58,15 +58,15 @@ Their basics features that you can use (and will make a difference) are:
 Example:
 
 - First
-- DSEcdh
-- Sadsa
+- Second
+- Third
 
 **Cardinal bullet pints**: write (number). at the beginning of a new line
 
     Example:
 
-1. DSAdasd
-2. sdadasda
+    1. First
+    2. Second
 
 **Images**: use this code below:
 
