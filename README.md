@@ -22,51 +22,51 @@ Their basics features that you can use (and will make a difference) are:
 
 **Titles**: put a hashtag (#) prior to the title name.
 
-Example:
+    Example:
 
-# This is a title
+    # This is a title
 
 **Subtitles**: write two hashtags (##) to create a substitle.
 
-Example:
+    Example:
 
-## This is a subtitle
+    ## This is a subtitle
 
 **Sub-subtitles**: put more hasthtags to create as many subtitles as you wish
 
-Example:
+    Example:
 
-### This is a third title category
-#### And this one is a fourth
-##### Is this endless?
-###### Help
+    ### This is a third title category
+    #### And this one is a fourth
+    ##### Is this endless?
+    ###### Help
 
 **Bold text**: use ** at the beginning and at the end of the text
 
-Example:
+    Example:
 
-This text **is now in bold**
+    This text **is now in bold**
 
 **Italic text**: use * at the beginning and at the end of the text
 
-Example:
+    Example:
 
-This text *is now in italics*
+    This text *is now in italics*
 
 **Bullet points**: use - every new line
 
-Example:
+    Example:
 
-- First
-- Second
-- Third
+    - First
+    - Second
+    - Third
 
 **Cardinal bullet pints**: write (number). at the beginning of a new line
 
-Example:
+    Example:
 
-1. First
-2. Second
+    1. First
+    2. Second
 
 **Images**: use this code below:
 
