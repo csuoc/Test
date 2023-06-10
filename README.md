@@ -18,19 +18,19 @@ Markdown is markup language for creating formatted text using a plain-text edito
 Their basics features that you can use (and will make a difference) are:
 
 
-Titles: put a hashtag (#) prior to the title name.
+**Titles**: put a hashtag (#) prior to the title name.
 
     Example:
 
     # This is a title
 
-Subtitles: write two hashtags (##) to create a substitle.
+**Subtitles**: write two hashtags (##) to create a substitle.
 
     Example:
 
     ## This is a subtitle
 
-Sub-subtitltes: put more hasthtags to create as many subtitles as you wish
+**Sub-subtitles**: put more hasthtags to create as many subtitles as you wish
 
     Example:
 
@@ -39,14 +39,32 @@ Sub-subtitltes: put more hasthtags to create as many subtitles as you wish
     ##### Is this endless?
     ###### Help
 
-Bold text: use ** at the beginning and at the end of the text
+**Bold text**: use ** at the beginning and at the end of the text
 
     Example:
 
     This text **is now in bold**
 
-Italic text: use * at the beginning and at the end of the text
+**Italic text**: use * at the beginning and at the end of the text
 
     Example:
 
     This text *is now in italics*
+
+**Bullet points**: use - every new line
+
+Example:
+
+    - First bullet point
+    - Second
+
+**Cardinal bullet pints**: write (number). at the beginning of a new line
+
+    Example:
+
+    1. First point
+    2. Second
+
+**Images**: use this code below:
+
+<img src="Katas.jpg" alt="Alt text that describes the graphic" title="Title text" />
